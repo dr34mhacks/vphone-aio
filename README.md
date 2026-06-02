@@ -109,7 +109,7 @@ reboot
 mkdir -p ~/viphone && cd ~/viphone
 git clone --depth=1 https://github.com/dr34mhacks/vphone-aio.git
 cd vphone-aio
-git lfs pull
+git lfs pull # if not work go with the step 5 directly 
 ```
 
 ---
